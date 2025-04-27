@@ -1,8 +1,3 @@
-Of course! I checked your GitHub repo link `https://github.com/Nitesh-Yadavv/currencyConvertor` —  
-based on your project (React + Tailwind Currency Converter app), here's a **professional `README.md`** you can use:
-
----
-
 # Currency Converter 💱
 
 A simple, beautiful currency converter web app built with **React** and **Tailwind CSS**.  
